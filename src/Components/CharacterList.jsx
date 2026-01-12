@@ -23,9 +23,8 @@ export default function CharacterList({ data }) {
                     {character.name}
                   </span>
                   <div className="flex items-center justify-center gap-2 text-slate-400">
-                    <div className="w-3 h-3 rounded-full bg-blue-500"></div>
                     <span className="text-sm">
-                      Eye color: <span className="capitalize">{character.eye_color}</span>
+                      Born on <span className="capitalize">{character.birth_year}</span>
                     </span>
                   </div>
                 </div>
