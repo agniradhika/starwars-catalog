@@ -5,7 +5,7 @@ export default function CharacterList({ data }) {
   return (
   <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 p-6">
     <div className="max-w-7xl mx-auto">
-      <div className="mb-8">
+      <div className="mb-8 text-center">
         <h1 className="text-4xl font-bold text-yellow-500 mb-2">Star Wars Characters</h1>
         <p className="text-slate-400">Explore the galaxy far, far away</p>
       </div>
