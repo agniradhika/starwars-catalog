@@ -14,6 +14,8 @@ Preview
 # API used
 [Swapi API](https://swapi.info/api/people) 
 
-#Tech Stack
+# Tech Stack
+
 React
+
 Tailwind CSS
